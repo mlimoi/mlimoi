@@ -19,7 +19,6 @@ Created interactive Power BI reports using sales and business data. I used Power
 
 [View Power BI Projects](https://github.com/mlimoi/PowerBI)
 
-![Power BI Dashboard](images/power-bi-dashboard.png)
 
 ---
 
@@ -29,7 +28,7 @@ Developed Tableau dashboards using Spotify, life expectancy and Great Britain em
 
 [View Tableau Projects](https://github.com/mlimoi/Tableau)
 
-![Tableau Dashboard](images/tableau-dashboard.png)
+![Tableau Dashboard](https://public.tableau.com/app/profile/marcus.limoi/vizzes)
 
 ---
 
