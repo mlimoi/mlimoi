@@ -11,6 +11,38 @@ I am an aspiring Junior Data Analyst currently completing a Level 3 Data Technic
 * **Python:** variables, conditional statements, loops and problem-solving
 * **Pandas:** DataFrames, data cleaning, filtering, sorting and exploratory analysis
 
+## Tools & Technologies
+
+<img src="https://api.iconify.design/simple-icons/microsoftexcel.svg?color=%23217346"
+     alt="Microsoft Excel"
+     title="Microsoft Excel"
+     width="45"
+     height="45"/>
+&nbsp;
+<img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811"
+     alt="Power BI"
+     title="Power BI"
+     width="45"
+     height="45"/>
+&nbsp;
+<img src="https://api.iconify.design/simple-icons/tableau.svg?color=%23E97627"
+     alt="Tableau"
+     title="Tableau"
+     width="45"
+     height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="45" height="45"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717/FFFFFF" alt="GitHub" title="GitHub" width="45" height="45"/>
+</p>
+
+
+
 ## Featured Projects
 
 ### Power BI Data Analysis
