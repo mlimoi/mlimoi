@@ -28,7 +28,7 @@ Developed Tableau dashboards using Spotify, life expectancy and Great Britain em
 
 [View Tableau Projects](https://github.com/mlimoi/Tableau)
 
-![Tableau Dashboard](https://public.tableau.com/app/profile/marcus.limoi/vizzes)
+
 
 ---
 
@@ -38,7 +38,7 @@ Used MySQL Workbench to analyse the Northwind and World databases. I wrote queri
 
 [View SQL Projects](https://github.com/mlimoi/SQL)
 
-![SQL Analysis](images/sql-analysis.png)
+
 
 ## Currently Developing
 
